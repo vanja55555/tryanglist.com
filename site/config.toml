@@ -1,0 +1,39 @@
+baseurl = "/"
+languageCode = "en-us"
+languageLang = "en"
+title = "Tryanglist"
+
+[menu]
+
+	[[menu.main]]
+		identifier = "home"
+		name = "Home"
+		title = "blog section"
+		url = "/"
+		weight = 1
+
+	[[menu.main]]
+		identifier = "about"
+		name = "About"
+		title = "blog section"
+		url = "/about/"
+		weight = 2
+
+    [[menu.main]]
+		identifier = "post"
+		name = "Blog"
+		title = "blog section"
+		url = "/post/"
+		weight = 3
+
+	[[menu.main]]
+		identifier = "contact"
+		name = "Contact"
+		title = "blog section"
+		url = "/contact/"
+		weight = 4
+
+# RSS, categories and tags disabled for an easy start
+# See configuration options for more details: 
+# https://gohugo.io/getting-started/configuration/#toml-configuration
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]

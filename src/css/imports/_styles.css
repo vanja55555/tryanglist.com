@@ -1,0 +1,23 @@
+::selection {
+  background-color: var(--highlight);
+}
+
+/* Used in the navbar */
+.divider-grey {
+  /* box-shadow: inset 0 -4px 0 var(--grey-1); */
+  /* Link hover states */
+  & a {
+    transition: var(--hover-transition);
+  }
+  & ul:hover{
+    color: var(--grey-3);
+  }
+  & ul a:hover, & ul a:focus {
+    color: var(--black);
+    font-weight: 300;
+    opacity:0.3;
+  }
+}
+a:hover {
+  opacity:0.3;
+}

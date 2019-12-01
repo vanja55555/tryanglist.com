@@ -1,0 +1,64 @@
+.static { position: static; }
+.relative  { position: relative; }
+.absolute  { position: absolute; }
+.fixed  { position: fixed; }
+
+.transformed{
+  margin-right: -25px;
+  right: 190px;
+  z-index: 5555;
+  top: 70px;
+}
+.nav-small{
+  position: absolute;
+  top: 5px;
+  left: 25px;
+  z-index: 222222;
+}
+@media (--breakpoint-not-small) {
+
+  .transformed-ns{
+    right: 35px;
+    z-index: 5;
+    top: 15px;
+  }
+  .absolute-ns { position: absolute; right:0; }
+}
+
+@media (--breakpoint-not-small) {
+  .static-m { position: static; }
+  .relative-m  { position: relative; }
+  .absolute-m  { position: absolute; }
+  .fixed-m  { position: fixed; }
+}
+
+@media (--breakpoint-medium) {
+  .static-m { position: static; }
+  .relative-m  { position: relative; }
+  .absolute-m  { position: absolute; }
+  .fixed-m  { position: fixed; }
+}
+
+@media (--breakpoint-large) {
+  .static-l { position: static; }
+  .relative-l  { position: relative; }
+  .absolute-l  { position: absolute; }
+  .fixed-l  { position: fixed; }
+}
+
+
+.top-1{
+  top:1rem;
+}
+
+.top-3{
+  top:3rem;
+}
+.top-7{
+  top:7rem;
+}
+.left-6{
+  left:6rem;
+}
+
+

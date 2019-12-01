@@ -1,0 +1,9 @@
+
+
+<a href="{{ .RelPermalink }}" class="no-underline bg-white mv3 db raise w-100 tc">
+	{{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-100 mb2"/>{{ end }}
+	<h2 class="f3 pv1 lh-title mh3">{{ .Title }}</h2>
+	<!-- <p class="mid-gray pa1 lh-title mb2">{{ .Date.Format "Mon, Jan 2, 2006" }}</p> -->
+	<p class="f7 pv1 mb0 mh3">{{ .Description }}</p>
+	<p class="f6 pv1 link b dib black mh3 mv3">Read more →</p>
+</a>

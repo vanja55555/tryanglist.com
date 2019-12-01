@@ -1,0 +1,34 @@
+{{ define "main" }}
+
+<div class="mw7 pt3 dn-ns nav-small">
+	<!-- Logo --> 
+	<a href="/" class="measure-narrow center">
+		<img src="/img/default/logo.svg" alt="Tryanglist logo" class="db w4 center mb4 br0"/>
+	</a>
+</div>
+
+  <div class="mw7 center ph3 pv4">
+    <div class="flex-ns mhn2-ns relative">
+      <div class="w2-ns mh2-ns relative">
+        <a href="/post">
+          <h4 class="f6 lh-title mb2 tvm-rl-ns ls-large absolute-ns tr-180-ns transformed-ns"> <span class="di dn-ns">&larr;</span> Back <span class="di-ns dn">&rarr;</span></h4>
+        </a>
+      </div>
+      <div class="w-70-ns">
+        <!-- Image source: Canva website - Photo by Claire Thibault -->
+        {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="center db mb3"/>{{ end }}
+      </div>
+      <div class="w-50-ns absolute-ns bg-white-02 pa3 top-3 di-ns db">
+        <img src="/img/default/logo.svg" alt="Contact me" class="w4 db-ns mb3 dn">
+        <h4 class="f3 fw4 lh-title mb2 ">{{.Title}}</h4>
+        <p class="mw6 mb1 pf-1">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+        <p class="mw6 pf-1">Read in {{ .ReadingTime }} minutes</p>
+      </div>
+    </div>
+    <div class="cms mw7">
+      <p>{{ .Description }}</p>
+      {{ .Content }}
+    </div>
+  </div>
+  {{ partial "newsletter-form" . }} 
+{{ end }}

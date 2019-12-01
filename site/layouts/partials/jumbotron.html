@@ -1,0 +1,38 @@
+
+<div class="mw7 pt3 dn-ns nav-small">
+	<!-- Logo --> 
+	<a href="/" class="measure-narrow center">
+		<img src="/img/default/logo.svg" alt="Tryanglist logo" class="db w4 center mb4 br0"/>
+	</a>
+</div>
+
+
+
+<div class="pv3 pv3-l ph3 bg-center cover" style="background-image: url('{{.imageUrl}}')">
+  <div class="mw7 center ph3">
+    <div class="db mb3">
+      <div class="mw7 relative mb3">
+          <div class="flex-ns mhn2-l">
+            <div class="w-60-ns tc bg-white pa3">
+                <!-- Photo by Guduru Ajay bhargav -->
+              <img src="img/default/jumbotron-slogan.jpg" alt="Tryanglist" class="w-100">
+            </div>
+            <div class="w-40-ns mv5-ns pa4 tc tl-ns flex flex-column justify-center">
+                <h1 class="f2 f1-l b di-ns lh-title mb2 mw6 dn">
+                    <!-- {{.title}} -->
+                    <img src="/img/default/logo.svg" alt="Tryanglist logo" class="w5 center br0"/>
+                </h1>
+                <div class="mw7 pb4 pt2 relative">
+                  {{ if .subtitle }}
+                  <h2 style="font-weight:200" class="f2 pv1 lh-title">
+                    {{.subtitle}}
+                  </h2>
+                  {{ end }}
+                </div>
+            </div>
+            
+          </div>
+      </div>
+    </div>
+  </div>
+</div>

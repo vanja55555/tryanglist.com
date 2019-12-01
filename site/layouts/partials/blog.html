@@ -1,0 +1,24 @@
+<div class="bg-grey-1 pv4 mt4">
+
+	<div class="ph3 mw7 center">
+
+		<div class="pa3 mb3 bg-white" style="margin-top:-50px;">
+			<h3 class="f3 tc lh-title mb3">My main passion is helping businesses to not settle. Think in a predatory way. Try new angles. Create real momentum for transformation.</h3>
+		</div>
+
+		<h2 class="f2 tc lh-title mv5">RECENT POSTS</h2>
+
+		<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
+			{{ range first 3 (where .Data.Pages "Type" "post") }}
+				<div class="ph1-ns w-33-ns flex">
+					{{ .Render "li" }}
+				</div>
+			{{ end }}
+		</div>
+
+		<div class="tc pb5">
+			<a href="/post" class="btn-primary fw2 raise">Explore →</a>
+		</div>
+
+	</div>
+</div>

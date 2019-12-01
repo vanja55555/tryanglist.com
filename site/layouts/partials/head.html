@@ -1,0 +1,66 @@
+<head>
+
+  <title>{{ .Title }} | {{ $.Site.Title }}</title>
+
+  {{ $stylesheet := .Site.Data.webpack.main }}
+  {{ with $stylesheet.css }}
+    <link href="{{ relURL . }}" rel="stylesheet">
+  {{ end }}
+  <meta name="description" content="My main goal is to find the right angles that help us understand what are the things that we should be measuring and to create insights so that a brand can relate to customers on a better, more personalised level.">
+
+  <!-- Sass resources -->
+  <!-- {{ $style := resources.Get "scss/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}"> -->
+
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+	<base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
+
+	<!-- Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700&display=swap&subset=latin-ext" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Dancing+Script:400,700&display=swap&subset=latin-ext" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Noto+Serif+SC:200,300,400,500,600,700,900&display=swap" rel="stylesheet">
+
+	<!-- Favicons -->
+	<link rel="apple-touch-icon" sizes="180x180" href="/img/default/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="/img/default/favicon.ico" sizes="32x32">
+	<link rel="icon" type="image/png" href="/img/default/favicon.ico" sizes="16x16">
+	<link rel="manifest" href="/manifest.json">
+	<link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#ff4400">
+	<meta name="theme-color" content="#fff">
+
+	<!-- Open Graph -->
+	<meta property="og:type" content="business.business">
+	<meta property="og:title" content="Tryanglist | Personal portfolio blog">
+	<meta property="og:url" content="/">
+	<meta property="og:image" content="/img/og-image.jpg">
+
+  {{ if .IsHome }}
+	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  {{ end }}
+	<script
+		src="https://code.jquery.com/jquery-3.4.1.min.js"
+		integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+		crossorigin="anonymous"></script>
+	<script>
+		function wrapString(str) {
+			var output = [];
+			str.split('').forEach(function(letter) {
+			var wrapper = document.createElement('span');
+			wrapper.dataset.content = wrapper.innerHTML = letter;
+			output.push(wrapper.outerHTML);
+			});	
+			return output.join('');
+		}
+
+		window.onload = function() {
+			var el  = document.querySelector('.split-color'),
+			txt = el.innerHTML;
+		
+			el.innerHTML = wrapString(txt);
+		}
+	</script>
+	
+	
+</head>

@@ -1,0 +1,122 @@
+svg {
+  fill: currentColor;
+  fill-rule:evenodd;
+  clip-rule:evenodd;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+
+
+
+
+
+
+
+nav {
+  max-width: 1180px;
+  height: 80px;
+  margin: 0px auto;
+  display: -webkit-flex;
+  display: flex;
+  -ms-align-items: center;
+  align-items: center;
+}
+ul {
+  display: -webkit-flex;
+  display: flex;
+  list-style: none;
+}
+
+.nav__icon,
+.nav__icon span {
+  display: none;
+}
+
+.nav__icon {
+  width: 36px;
+  height: 28px;
+  margin-right: 10px;
+  position: relative;
+  cursor: pointer;
+}
+
+.nav__icon span {
+  background: rgb(36, 36, 36);
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  border-radius: 4px;
+}
+
+.nav__icon span:nth-of-type(1) {
+  top: 0;
+}
+
+.nav__icon span:nth-of-type(2) {
+  top: 12px;
+}
+
+.nav__icon span:nth-of-type(3) {
+  bottom: 0;
+}
+
+.nav__icon.active span:nth-of-type(1) {
+  -webkit-transform: translateY(12px) rotate(-45deg);
+  transform: translateY(12px) rotate(-45deg);
+}
+
+.nav__icon.active span:nth-of-type(2) {
+  display: none;
+}
+
+.nav__icon.active span:nth-of-type(3) {
+  -webkit-transform: translateY(-12px) rotate(45deg);
+  transform: translateY(-12px) rotate(45deg);
+}
+
+@media only screen and (max-width: 640px) {
+
+ nav {
+  .flex{
+    display:none;
+  }
+      z-index: 999;
+      ul {
+          background-color: var(--black-01);
+          -webkit-flex-direction: column;
+          flex-direction: column;
+          -webkit-justify-content: center;
+          justify-content: center;	
+          position: absolute;
+          top: 0;
+          left: 0px;
+          bottom:0;
+          width: 100%;
+          z-index: 980;
+      }
+      ul li {
+          padding: 10px;
+          text-align: center;
+      }
+      ul li a {
+                  display: block;
+          background: transparent;
+          margin: 0px;
+          padding: 20px;
+      }
+      ul li a:hover {
+          color: #000;
+      }
+      .nav__icon,
+      .nav__icon span {
+          position:absolute;
+          right:15px;
+          display: inline-block;
+          transition: all .4s;
+          box-sizing: border-box;
+          z-index: 999;
+      }
+  }
+}

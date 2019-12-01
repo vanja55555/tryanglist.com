@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="{{ $.Site.Language.Lang }}">
+  {{ partial "head" . }}
+  <body class="sans-serif bg-white">
+
+    {{ block "header" . }}{{ partial "nav" . }}{{end}}
+
+    {{ block "main" . }}{{ end }}
+
+    {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+    <!-- Back to top button -->
+    <a id="button"></a>
+
+    {{ $script := .Site.Data.webpack.main }}
+    {{ with $script.js }}
+      <script src="{{ relURL . }}"></script>
+    {{ end }}
+    <script>
+      var btn = $('#button');
+
+      $(window).scroll(function() {
+        if ($(window).scrollTop() > 300) {
+          btn.addClass('show');
+        } else {
+          btn.removeClass('show');
+        }
+      });
+
+      btn.on('click', function(e) {
+        e.preventDefault();
+        $('html, body').animate({scrollTop:0}, '500');
+      });
+
+
+      $( document ).ready(function() {
+			$('.nav__icon').on('click', function() {
+				$(this).toggleClass('active');
+				$('nav ul').slideToggle();
+				$('nav ul').css({ display: 'flex', height: 'auto' });
+			});
+		});
+  </script>
+
+    
+  </body>
+</html>

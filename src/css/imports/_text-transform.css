@@ -1,0 +1,53 @@
+.ttc { text-transform: capitalize; }
+.ttl { text-transform: lowercase; }
+.ttu { text-transform: uppercase; }
+.ttn { text-transform: none; }
+.tvm-rl { 
+  writing-mode: vertical-rl;
+}
+.tr-180{
+  -webkit-transform: rotate(180deg);	
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
+@media (--breakpoint-not-small) {
+  .ttc-ns { text-transform: capitalize; }
+  .ttl-ns { text-transform: lowercase; }
+  .ttu-ns { text-transform: uppercase; }
+  .ttn-ns { text-transform: none; }
+
+  .tvm-rl-ns { 
+    writing-mode: vertical-rl;
+  }
+  .tr-180-ns{
+    -webkit-transform: rotate(180deg);	
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+  }
+
+}
+
+@media (--breakpoint-medium) {
+  .ttc-m { text-transform: capitalize; }
+  .ttl-m { text-transform: lowercase; }
+  .ttu-m { text-transform: uppercase; }
+  .ttn-m { text-transform: none; }
+}
+
+@media (--breakpoint-large) {
+  .ttc-l { text-transform: capitalize; }
+  .ttl-l { text-transform: lowercase; }
+  .ttu-l { text-transform: uppercase; }
+  .ttn-l { text-transform: none; }
+  .tvm-rl-l { 
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+  }
+}
+
+

@@ -1,0 +1,31 @@
+<nav class="pt4-ns center bg-white divider-grey">
+    <!-- Primary Nav -->
+    <!-- <ul class="flex justify-center w-100">
+        <li class="nav-item"><a href="/" class="pa1 pa4-ns no-underline ttu db fw4">Home</a></li>
+
+        <li class="nav-item"><a href="/about" class="pa1 pa4-ns no-underline ttu db fw4">About</a></li>
+
+        <li><a href="/portfolio" class="pa1 pa4-ns no-underline ttu db">Portfolio</a></li> -->
+
+        <!-- <li class="nav-item"><a href="/post" class="pa1 pa4-ns no-underline ttu db fw4">Blog</a></li>
+
+        <li class="nav-item"><a href="/contact" class="pa1 pa4-ns no-underline ttu db fw4">Contact</a></li>
+
+    </ul> -->
+
+    <ul class="flex justify-center w-100">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+    
+        <li class="{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}primary{{ end }}">
+            <a href="{{ .URL }}" title="{{ .Title }}"  class="pa1 pa4-ns no-underline ttu db fw4">{{ .Name }}</a>
+        </li>
+        {{ end }}
+    </ul>
+    
+    <div class="nav__icon">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+</nav>

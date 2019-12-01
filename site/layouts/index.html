@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+
+{{ partial "2-up" .Params }}
+
+{{ partial "blog" . }} 
+
+{{ partial "newsletter-form" . }} 
+
+<!-- {{ partial "short-text" .Params.blurb}} -->
+
+<!-- {{ partial "3-up" .Params }} -->
+
+<!-- {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }} -->
+
+
+
+{{ end }}
