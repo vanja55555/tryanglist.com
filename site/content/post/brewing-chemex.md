@@ -3,7 +3,7 @@ title: Go big or go home
 date: 2017-01-04T15:04:10.000Z
 description: |-
   The scary/exciting realisation happens when we start applying this logic to
-  almost every industry.
+  almost every industry..
 image: /img/go-big-or-go-home.jpg
 ---
 It was 9 am and my dad and me were sitting in a quiet Bosnian café, everybody
