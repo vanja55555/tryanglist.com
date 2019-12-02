@@ -1,6 +1,31 @@
 {{ define "main" }}
-
-<h1>Nothing Here...</h1>
-<h3><a href="{{ "/" | relURL }}">Go Home</a></h3>
+<div class="mw7 pt3 dn-ns nav-small">
+	<!-- Logo --> 
+	<a href="/" class="measure-narrow center">
+		<img src="/img/default/logo.svg" alt="Tryanglist logo" class="db w4 center mb4 br0"/>
+	</a>
+</div>
+<div class="ph3 bg-white">
+	<div class="center mw7 pv3">
+		<div class="flex-ns mhn2-ns relative">
+				<div class="w4-ns mh2-ns relative">
+					<h1 class="f2 b pl3 lh-title mb2 tvm-rl-ns absolute transaprent tr-180-ns transformed-ns split-color-ns split-color">404</h2>
+					<h3 class="f3 lh-title tvm-rl-ns pt5-ns pt5  mb2 pr4 pb3 ph3 ls-middle bg-highlight absolute-ns tr-180-ns white bg-primary">Error Page</h3>
+				</div>
+				<div class="w-60-ns">
+					<!-- Image source: Canva website - Photo by Claire Thibault -->
+					<img src="img/default/page-404.jpg" alt="Contact me" class="center db mb3">
+				</div>
+				<div class="w-50-ns absolute-ns bg-white-02 pa3 top-3">
+						<img src="/img/default/logo.svg" alt="Contact me" class="w4 db mb3">
+				
+							<h4 class="f4 lh-title mb2">Ooops! </h4>
+							<p class="mw6 pf-1">It looks like ther's nothing here.</p>
+							<a href="{{ "/" | relURL }}"><p class="pa1 link b dib black mb0">Back to Home →</p></a>
+				
+				</div>
+		</div>
+	</div>
+</div>
 
 {{ end }}
