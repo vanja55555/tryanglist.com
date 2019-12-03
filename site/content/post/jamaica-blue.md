@@ -1,6 +1,6 @@
 ---
 title: The difference
-date: 2019-03-12T15:04:00.000Z
+date: 2019-03-12T16:04:00.000Z
 description: >-
   Some brands are simply distinctive and compete in their own competitive-less
   marketplace (and undoubtedly - enjoy all the benefits from that!). But how
