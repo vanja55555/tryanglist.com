@@ -4,7 +4,7 @@ date: 2019-03-12T15:04:00.000Z
 description: What makes us distinct? What does that mean for a brand?
 image: /img/the_difference.jpg
 ---
-## \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+## \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Years ago I was working in a marketing team for a film distributor.
 
@@ -34,13 +34,9 @@ The answer to my question came to me years later as I was working on a branding 
 
 > She was not different to me.
 >
-> She was
+> She was _more than different._
 >
-> _more than different._
->
-> She was 
->
-> _distinct._
+> She was _distinct._
 
 If she was a brand she would be a distinctive brand and brands like this don’t ever measure up on the same criteria.
 
