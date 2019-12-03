@@ -31,9 +31,9 @@ _way they could play with them now. The big clubs started becoming more popular_
 
 _and more people started watching them. Then, based on the TV rights they were_
 
-_able to invest more and buy only the best football players. Now, their game is better, more interesting and they only want to play with other big teams._
+_able to invest more and buy only the best football players. Today, their game is better, more interesting and they only want to play with other big teams._
 
-_Meanwhile, the small clubs are getting less and less popular and now have to fight a whole group of other small clubs in order to even gain the opportunity to play with the big dogs.'_
+_Meanwhile, the small clubs are getting less and less popular and have to fight a whole group of other small clubs in order to even gain the opportunity to play with the big dogs.'_
 
 I could not be further away from a football fan, but I understand his logic:
 
@@ -55,9 +55,9 @@ year and the small countries had to wait 2-3 years for these films to come to th
 
 local movie theatres.
 
-Today, however, it has become so much easier to produce a film, thanks to all the
+Today, however, it has become so much easier to produce and create a film, thanks to all the
 
-new tech and amazing cameras.
+new tech.
 
 So called “hyper production” means that there are roughly 12.000 films that are
 
@@ -73,19 +73,19 @@ The big studios realised that it is much better to invest in a gigantic film suc
 
 Since only a few big films are created, this leads to: ‘optimisation’ of special
 
-effects quality; mainly the big name actors and big music production (or no risk
+effects quality; mainly the big name actors are hired and big music production is used (or no risk
 
-game) are introduced, and so on…
+game is at play).
 
 Why is this important?
 
 Well, there are a couple of consequences.
 
-The technology advancements also mean the segment of cinema enthusiasts is
+For films, the technology advancements also mean the segment of cinema enthusiasts is
 
 becoming younger and this consequently means the overarching genre of these
 
-‘hyper’ films is becoming more personally suited to their younger audiences’
+‘hyper’ films is becoming more suited to their younger audiences’
 
 needs.
 
@@ -105,11 +105,11 @@ simultaneously across the world and with no distribution delay.
 
 Maybe even more importantly…
 
-> If we only focus on films, football clubs or surviving companies that ‘make the
+> If we only focus on films, football clubs or surviving companies that ‘make the final
 >
 > cut’, there will always be a bias as this sample is not truly representative.
 >
-> This means the conclusions are based on the winner’s testimony, as we are
+> This means we only witness the winner’s testimony, as we are
 >
 > unable to hear all the losers.
 >
@@ -127,7 +127,11 @@ _‘Let’s do some work.’_
 
 My father closed the newspapers.
 
-It wasn't time to go home.
+
+
+It wasn't yet time to go home.
+
+
 
 _\*Serbian football club_
 
