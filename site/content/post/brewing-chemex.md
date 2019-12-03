@@ -1,9 +1,14 @@
 ---
 title: Go big or go home
-date: 2017-01-04T15:04:10.000Z
-description: |-
-  The scary/exciting realisation happens when we start applying this logic to
-  almost every industry.
+date: 2019-03-12T15:04:00.000Z
+description: >-
+  ‘Everything that used to be small is getting smaller. Everything that used to
+  be big is getting bigger. And technology is to blame (or thank, depending on
+  your field of work).' 
+
+  It's an everyday event. 
+
+  It's called simply - the Superstar Effect.
 image: /img/go-big-or-go-home.jpg
 ---
 It was 9 am and my dad and me were sitting in a quiet Bosnian café, everybody
@@ -14,29 +19,23 @@ _‘Technology advancement had been so fast that the number of data produced eve
 
 _days goes up to…’ the article stated._
 
-My dad just calmly looked up and said: ‘This world is officially going to hell.’
+My dad just calmly looked up and said: ‘_This world is officially going to hell._’
 
-However, it was only a morning and since we couldn’t possibly start our day in
+However, it was only morning and since we couldn’t start our day in
 
 such a bleak fashion (not even in Bosnia), he started illustrating his point in a
 
-more elaborative manner.
+more elaborated manner.
 
-‘You know, Red Star* played with Manchester in 1958. And almost won! There’s no
+_‘You know, Red Star* played with Manchester in 1958. And almost won! There’s no_
 
-way they could play with them now. The big clubs started becoming more popular
+_way they could play with them now. The big clubs started becoming more popular_
 
-and more people started watching them. Then, based on the TV rights they were
+_and more people started watching them. Then, based on the TV rights they were_
 
-able to invest more and buy only the best football players. Now, their game is better
+_able to invest more and buy only the best football players. Now, their game is better, more interesting and they only want to play with other big teams._
 
-and more interesting and they only want to play with other big teams. Meanwhile,
-
-the small clubs are getting less and less popular and now have to fight a whole
-
-group of other small clubs in order to even gain the opportunity to play with the
-
-‘big dogs’. ’
+_Meanwhile, the small clubs are getting less and less popular and now have to fight a whole group of other small clubs in order to even gain the opportunity to play with the big dogs.'_
 
 I could not be further away from a football fan, but I understand his logic:
 
@@ -44,7 +43,7 @@ I could not be further away from a football fan, but I understand his logic:
 >
 > used to be big is getting bigger. And technology is to blame (or thank, depending
 >
-> on which group you belong to).’
+> on which group you belong to).' It's called simply - the superstar effect.
 
 The scary/exciting realisation happens when we start applying this logic to
 
