@@ -9,6 +9,8 @@ description: >-
   It's an everyday event. 
 
   It's called simply - the Superstar Effect.
+
+  ____________________________________________________________
 image: /img/go-big-or-go-home.jpg
 ---
 It was 9 am and my dad and me were sitting in a quiet Bosnian café, everybody
