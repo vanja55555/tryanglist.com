@@ -1,10 +1,13 @@
 ---
 title: The difference
 date: 2019-03-12T15:04:00.000Z
-description: What makes us distinct? What does that mean for a brand?
+description: >-
+  Some brands are simply distinctive and compete in their own competitive-less
+  marketplace (and undoubtedly - enjoy all the benefits from that!). But how
+  does one become distinctive? And why is it important in the first place?
 image: /img/the_difference.jpg
 ---
-## \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+## \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 Years ago I was working in a marketing team for a film distributor.
 
