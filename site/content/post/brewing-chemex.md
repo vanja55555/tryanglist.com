@@ -19,7 +19,7 @@ _‘Technology advancement had been so fast that the number of data produced eve
 
 _days goes up to…’ the article stated._
 
-My dad just calmly looked up and said: ‘_This world is officially going to hell._’
+My dad just calmly looked up and said: '_This world is officially going to hell.'_
 
 However, it was only morning and since we couldn’t start our day in
 
@@ -41,13 +41,13 @@ I could not be further away from a football fan, but I understand his logic:
 
 > ‘It’s very simple: everything that used to be small is getting smaller. Everything that
 >
-> used to be big is getting bigger. And technology is to blame (or thank, depending
+> used to be big is getting bigger. And technology is to blame (or thank, depending on your field of work).' It's an everyday event. 
 >
-> on which group you belong to).' It's called simply - the superstar effect.
+> It's called simply - the Superstar Effect.
 
 The scary/exciting realisation happens when we start applying this logic to
 
-almost every industry.
+almost any industry.
 
 So, let’s talk about films.
 
@@ -63,7 +63,7 @@ new tech and amazing cameras.
 
 So called “hyper production” means that there are roughly 12.000 films that are
 
-created per annum, out of which only 150 – 200 end up on cinema screens.
+created per year, out of which only 150 – 200 end up on cinema screens.
 
 And you guessed it – only the biggest and the most expensive films make the
 
@@ -73,7 +73,7 @@ The big studios realised that it is much better to invest in a gigantic film suc
 
 ‘Avatar’, than to create 5 smaller films.
 
-Since only a few big films are created, this leads to ‘optimisation’ of special
+Since only a few big films are created, this leads to: ‘optimisation’ of special
 
 effects quality; mainly the big name actors and big music production (or no risk
 
@@ -115,17 +115,17 @@ This means the conclusions are based on the winner’s testimony, as we are
 
 unable to hear all the losers.
 
-In addition, since the pool of competition is closed for all those ‘small people’ it
+When the pool of competition is closed for all those ‘small people’ it
 
 is, by far, much harder to become ‘big’.
 
-Maybe there is a really good kid in this Red Star club that is (yet to be)
+Maybe there is a really good kid in Red Star club that is (yet to be)
 
-discovered and that could at this very moment kick some Manchester kids butt.
+discovered and that could, at this very moment, score the goal for Manchester United.
 
 But England’s never been so close, yet further away.
 
-‘Let’s do some work.’
+_‘Let’s do some work.’_
 
 My father closed the newspapers.
 
