@@ -4,10 +4,12 @@ date: 2019-03-12T15:04:00.000Z
 description: >-
   ‘Everything that used to be small is getting smaller. Everything that used to
   be big is getting bigger. And technology is to blame (or thank, depending on
-  your field of work).' It's called simply - the Superstar Effect.
+  your field of work).'
+
+  It's called simply - the Superstar Effect.
 image: /img/go-big-or-go-home.jpg
 ---
-## \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+## \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 It was 9 am and my dad and me were sitting in a quiet Bosnian café, everybody
 
@@ -127,11 +129,7 @@ _‘Let’s do some work.’_
 
 My father closed the newspapers.
 
-
-
 It wasn't yet time to go home.
-
-
 
 _\*Serbian football club_
 
