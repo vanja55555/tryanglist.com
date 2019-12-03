@@ -7,7 +7,7 @@ description: >-
   your field of work).' It's called simply - the Superstar Effect.
 image: /img/go-big-or-go-home.jpg
 ---
-## __
+## \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 It was 9 am and my dad and me were sitting in a quiet Bosnian café, everybody
 
@@ -128,10 +128,6 @@ _‘Let’s do some work.’_
 My father closed the newspapers.
 
 It wasn't time to go home.
-
-
-
-
 
 _\*Serbian football club_
 
