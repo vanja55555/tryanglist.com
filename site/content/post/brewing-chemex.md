@@ -4,15 +4,11 @@ date: 2019-03-12T15:04:00.000Z
 description: >-
   ‘Everything that used to be small is getting smaller. Everything that used to
   be big is getting bigger. And technology is to blame (or thank, depending on
-  your field of work).' 
-
-  It's an everyday event. 
-
-  It's called simply - the Superstar Effect.
-
-  ____________________________________________________________
+  your field of work).' It's called simply - the Superstar Effect.
 image: /img/go-big-or-go-home.jpg
 ---
+## __
+
 It was 9 am and my dad and me were sitting in a quiet Bosnian café, everybody
 
 reading their own newspapers and slowly drinking our coffees.
@@ -43,7 +39,7 @@ I could not be further away from a football fan, but I understand his logic:
 
 > ‘It’s very simple: everything that used to be small is getting smaller. Everything that
 >
-> used to be big is getting bigger. And technology is to blame (or thank, depending on your field of work).' It's an everyday event. 
+> used to be big is getting bigger. And technology is to blame (or thank, depending on your field of work).' 
 >
 > It's called simply - the Superstar Effect.
 
@@ -109,17 +105,17 @@ simultaneously across the world and with no distribution delay.
 
 Maybe even more importantly…
 
-If we only focus on films, football clubs or surviving companies that ‘make the
-
-cut’, there will always be a bias as this sample is not truly representative.
-
-This means the conclusions are based on the winner’s testimony, as we are
-
-unable to hear all the losers.
-
-When the pool of competition is closed for all those ‘small people’ it
-
-is, by far, much harder to become ‘big’.
+> If we only focus on films, football clubs or surviving companies that ‘make the
+>
+> cut’, there will always be a bias as this sample is not truly representative.
+>
+> This means the conclusions are based on the winner’s testimony, as we are
+>
+> unable to hear all the losers.
+>
+> When the pool of competition is closed for all those ‘small people’ it
+>
+> is, by far, much harder to become ‘big’.
 
 Maybe there is a really good kid in Red Star club that is (yet to be)
 
@@ -131,7 +127,11 @@ _‘Let’s do some work.’_
 
 My father closed the newspapers.
 
-It was time to go big or go home.
+It wasn't time to go home.
+
+
+
+
 
 _\*Serbian football club_
 
