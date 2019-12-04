@@ -31,7 +31,7 @@ I was no exception.
 
 Always wanting to dissect things and measure them, I wanted to break it all down and understand _what was it exactly what makes a difference between her and me._
 
-After all, on the outside - we were very similar: similar age and height, similar sense of humour, coming from the same country and I guess I could listen to some strange music in the office - it’s just no one ever cared if I did.
+After all, on the outside - we were very similar: similar age and height, similar sense of humour and I guess I could listen to some strange music in the office - it’s just no one ever cared if I did.
 
 The answer to my question came to me years later as I was working on a branding project and I was finally able to understand.
 
