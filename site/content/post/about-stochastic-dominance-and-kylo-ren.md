@@ -3,7 +3,7 @@ title: About Stochastic Dominance and Kylo Ren
 date: 2020-01-03T10:15:38.115Z
 description: >+
   What is the real value of customer insight? More importantly, why the right
-  focus is relevant - at work, in our everyday lives and even in on the screen.
+  focus is relevant - at work, in our everyday lives and even on the screen.
 
 image: /img/maggielovesorbit-on-insta-ccuzyxlb5so-unsplash.jpg
 ---
