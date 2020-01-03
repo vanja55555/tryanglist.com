@@ -9,8 +9,6 @@ image: /img/maggielovesorbit-on-insta-ccuzyxlb5so-unsplash.jpg
 ---
 ## \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-
-
 Adam Diver was recently interviewed for the GQ magazine about his role in Star Wars.
 
 He was asked whether he thinks Kylo Ren, who aspires to be the next lord Darth Vader, was truly evil.
@@ -25,7 +23,7 @@ In other words – Kylo doesn’t think he’s evil.
 
 The trouble is, there are many people in the world who think they are right.
 
-But not everyone not everyone **is** right.
+But not everyone **is** actually right.
 
 Even more importantly, not everyone has the luxury to **be** right.
 
