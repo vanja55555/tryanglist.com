@@ -25,11 +25,11 @@ In other words – Kylo doesn’t think he’s evil.
 
 The trouble is, there are many people in the world who think they are right.
 
-But not everyone has the luxury to **be** right.
+But not everyone not everyone **is** right.
+
+Even more importantly, not everyone has the luxury to **be** right.
 
 There is only so much space in the world for the ‘rightness’. 
-
-Even more importantly, not everyone **is** right.
 
 As long as someone has to win, someone has to lose.
 
