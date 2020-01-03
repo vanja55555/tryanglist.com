@@ -9,6 +9,8 @@ image: /img/maggielovesorbit-on-insta-ccuzyxlb5so-unsplash.jpg
 ---
 ## \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
+
+
 Adam Diver was recently interviewed for the GQ magazine about his role in Star Wars.
 
 He was asked whether he thinks Kylo Ren, who aspires to be the next lord Darth Vader, was truly evil.
