@@ -5,6 +5,7 @@ description: >+
   What is the real value of customer insight? More importantly, why the right
   focus is relevant - at work, in our everyday lives and even on the screen.
 
+header: test
 image: /img/maggielovesorbit-on-insta-ccuzyxlb5so-unsplash.jpg
 ---
 ## \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
