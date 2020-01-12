@@ -7,8 +7,6 @@ description: >-
   does one become distinctive? And why is it important in the first place?
 image: /img/the_difference.jpg
 ---
-## \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
 Years ago I was working in a marketing team for a film distributor.
 
 When I look back at that time, I don’t really remember what I did, I don’t remember how long I stayed, in fact I don’t remember anything in particular, but I do remember – her, the most memorable coworker I ever met.
