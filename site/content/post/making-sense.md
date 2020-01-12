@@ -7,8 +7,6 @@ description: >-
   for you, me or a brand?
 image: /img/emotions.jpg
 ---
-## \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
 When I was 5 years old my mum decided to take me to the seaside for the first time ever.
 
 The bus drive was meant to last 11 hours, but I was more than excited and didn’t even plan to complain.
