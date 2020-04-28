@@ -25,8 +25,6 @@ It’s a story about two events: the murder of a husband and the rape of his wif
 The events are described through the eyes of the woodcutter, the bandit, the woman, and the spirit of the husband.
 
 > _When they talk about it, everyone says their version of the truth, but each story is significantly different from others._
->
->  
 
 It is more complicated that saying they are lying, because none of them is lying only with a goal to protect their innocence.
 
@@ -44,7 +42,7 @@ In economics, this idea is linked to so called 'dispersion of knowledge'.
 
 So, one concept, at least 3 different fields.
 
-But what does this effect mean for asking common business questions: why do customers only shop once or what predicts the new product uptake?
+But what does this effect mean for people asking common business questions: why do customers only shop once or what predicts the new product uptake?
 
 Where does this leave research and analytics?
 
