@@ -76,7 +76,7 @@ Some argue it all depends on the nature of the question were asking.
 
 Some argue we should reconsider the question itself.
 
-But sometimes, the truth is greater than the sum of its parts or any of our partitioned understandings.
+But sometimes, the truth is greater than the sum of its parts or any of our partial understandings.
 
 The Schrödinger's cat is alive.
 
