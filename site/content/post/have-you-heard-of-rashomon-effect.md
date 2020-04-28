@@ -1,7 +1,7 @@
 ---
 title: Have you heard of Rashomon effect?
 date: 2020-04-28T08:40:47.921Z
-description: Let's talk about the Rashomon effect and all the versions of the truth
+description: Let's talk about the Rashomon effect and different versions of one truth
 image: /img/pexels-photo-609549.jpeg
 ---
 I was always interested in versatile concepts.
