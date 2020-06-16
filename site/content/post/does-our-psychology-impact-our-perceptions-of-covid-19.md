@@ -10,8 +10,10 @@ description: >-
   be an implication for interventions as one group, in particular, is the least
   worried about spreading the virus. However, this is also an invitation for
   everyone to reflect on their own traits and needs during these trying times.
-image: /img/vasa.png
+image: ''
 ---
 \-
+
+![](/img/vasa.png)
 
 Photo credit: Freepik
